@@ -1,0 +1,22 @@
+﻿  main.cpp
+C:\Users\Asus\Desktop\Grand Project\GrandProj\GrandProj\main.cpp(32,48): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\Asus\Desktop\Grand Project\GrandProj\GrandProj\main.cpp(32,45): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\Asus\Desktop\Grand Project\GrandProj\GrandProj\main.cpp(54,33): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Asus\Desktop\Grand Project\GrandProj\GrandProj\main.cpp(61,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Asus\Desktop\Grand Project\GrandProj\GrandProj\main.cpp(69,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Asus\Desktop\Grand Project\GrandProj\GrandProj\main.cpp(70,44): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Asus\Desktop\Grand Project\GrandProj\GrandProj\main.cpp(79,20): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+C:\Users\Asus\Desktop\Grand Project\GrandProj\GrandProj\main.cpp(108,56): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Asus\Desktop\Grand Project\GrandProj\GrandProj\main.cpp(113,119): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Asus\Desktop\Grand Project\GrandProj\GrandProj\main.cpp(114,119): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Asus\Desktop\Grand Project\GrandProj\GrandProj\main.cpp(115,120): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Asus\Desktop\Grand Project\GrandProj\GrandProj\main.cpp(116,121): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  GrandProj.vcxproj -> C:\Users\Asus\Desktop\Grand Project\GrandProj\Debug\GrandProj.exe
